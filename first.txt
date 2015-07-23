@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 public class MyFirstClassAtGithub
 {
 public static void main(String []args)
+{
 hello world
 }
+}
+=======
+System.out.println("hello world");
+>>>>>>> b6ea09979ec49cfe73e37f903f7fc560c294718e
