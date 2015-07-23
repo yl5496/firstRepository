@@ -1,1 +1,5 @@
+public class MyFirstClassAtGithub
+{
+public static void main(String []args)
 hello world
+}
